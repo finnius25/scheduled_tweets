@@ -78,3 +78,5 @@ gem "omniauth-twitter", "~> 1.4"
 gem "net-http", "~> 0.2.2"
 
 gem "twitter", "~> 7.0"
+
+gem "sidekiq", "~> 6.4"
